@@ -39,6 +39,6 @@ Through this project, I demonstrated my ability to handle complex data queries a
 - Power BI Visualizations: Folder containing Power BI files with data visualizations.
 - Presentation: PowerPoint file showcasing insights and recommendations.
 
-*** -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project is a demonstration of my skills in data analysis, SQL querying, data visualization, and presentation design in a business context. It showcases my ability to derive and communicate actionable insights from data, which is crucial for data-driven decision-making in a corporate environment.
