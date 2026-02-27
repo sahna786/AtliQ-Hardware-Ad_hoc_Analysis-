@@ -1,4 +1,4 @@
-#Ad_hoc_Analysis
+# Ad_hoc_Analysis
 
 ## AtliQ-Hardwares
 AtliQ Hardwares is an imaginary leading computer hardware producer in India with a global presence. The company is committed to leveraging data analytics to drive smart, data-informed decisions.
@@ -15,12 +15,15 @@ As a hypothetical applicant for this role, I was tasked with:
 
 ## Approach:
 1. Data Extraction with SQL:
+   
 Utilized MySQL to run queries and pull the necessary data.
 
-2. Data Visualization:
+3. Data Visualization:
+   
 Leveraged Power BI to visualize the output, making the insights clear and compelling.
 
-3. Presentation Design:
+4. Presentation Design:
+   
 Designed an engaging and professional presentation using tool like Canva to effectively communicate the insights.
 
 4.Actionable Insights:
